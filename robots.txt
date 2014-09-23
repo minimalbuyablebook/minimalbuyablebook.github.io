@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://fulloflifefood.com/sitemap.xml 
+Sitemap: http://MinimalBuyableBook.com/sitemap.xml 
