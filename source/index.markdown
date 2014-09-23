@@ -2,6 +2,8 @@
 layout: frontpage
 ---
 
+Hi There!
+
 ###Join us for a <a href="http://www.meetup.com/FullOfLifeFood/">Meat-Up</a> to get some incredibly tasty food!
 
 Full Of Life Food (aka FoLF) is a cooperative purchasing group that enables farmers and ranchers
