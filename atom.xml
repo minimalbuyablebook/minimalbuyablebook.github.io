@@ -1,16 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://minimalbuyablebook.github.io/atom.xml" rel="self"/>
-  <link href="http://minimalbuyablebook.github.io/"/>
-  <updated>2014-09-23T09:39:59-07:00</updated>
-  <id>http://minimalbuyablebook.github.io/</id>
+  <title><![CDATA[Full of Life Food]]></title>
+  <link href="http://fulloflifefood.com/atom.xml" rel="self"/>
+  <link href="http://fulloflifefood.com/"/>
+  <updated>2014-09-23T09:52:26-07:00</updated>
+  <id>http://fulloflifefood.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mark Fussell]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Beef and Pork – Full of Life Farms]]></title>
+    <link href="http://fulloflifefood.com/blog/beef-and-pork-products-2014Q3/"/>
+    <updated>2014-09-09T18:17:00-07:00</updated>
+    <id>http://fulloflifefood.com/blog/beef-and-pork-products-2014Q3</id>
+    <content type="html"><![CDATA[<p>We now have a selection of six products (three each) for Beef and Pork.  All of them are from the incredibly
+tasty and organic <a href="http://FullOfLifeFarm.com">Full of Life Farm</a>.</p>
+
+<p>The products include:</p>
+
+<ul>
+<li> Beef Front Cuts</li>
+<li> Beef Hind Cuts</li>
+<li> Ground Hamburger</li>
+<li> Pork Chops</li>
+<li> Pork Bacon and Sausage</li>
+<li> Ground Pork</li>
+</ul>
+
+
+<p>The details and pricing are below.</p>
+
+<p>See: <a href="http://fulloflifefarm.com/go-shopping/products.php">http://fulloflifefarm.com/go-shopping/products.php</a> for more details on any of the products.</p>
+
+<!-- more -->
+
+
+<h3>Beef Front Cuts</h3>
+
+<p>Bundles of two items (about 3 lbs) priced at $40 from a selection of: Boneless cross rib roast (pot), Brisket, Chuck eye steak, Cut for stew, Flank steak, Flat iron steak (filet), Rib steak (bone-in rib eye), Short ribs (regular cut), Skirt steak</p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box7_BeefChuckEyeAndBrisket_w1000.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box1_BeefRibSteak_w1000.jpg"/></p>
+
+<h3>Beef Hind Cuts</h3>
+
+<p>Bundles of two items (about 3 lbs) priced at $35 from a selection of: Boneless top round roast (carving), Cross cut shank, Cut for stir fry, Eye of round roast (pot), London broil (top round), Sirloin tip steak, Tenderloin steak (filet mignon), Tenderloin tail end, Top loin new york steak, Top sirloin steak, Beef tri-tip steak</p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box4_BeefTopLoinNewYork_w1000.jpg"/></p>
+
+<h3>Ground Hamburger</h3>
+
+<p>Bundles of three items (about 3 lbs) of Ground Hamburger priced at $25</p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box2_BeefGround_w1000.jpg"/></p>
+
+<h3>Pork Cuts</h3>
+
+<p>Bundles of two items (about 3 lbs) priced at $30 from a selection of: Baby back ribs, Chops (bone in), Leg roast (boneless), Loin chops (boneless), Shoulder roast (boston butt), Sirloin chops (boneless), Spareribs, Tenderloin</p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box3_PorkChop_w1000.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box5_PorkBostonButt_w1000.jpg"/></p>
+
+<h3>Pork Bacon and Sausage</h3>
+
+<p>Bundles of two items (about 2 lbs) priced at $30 from a selection of: Italian links, Spicy italian links, Spicy chorizo links, Breakfast links, Sliced bacon</p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box6_PorkBaconSausage_w1000.jpg"/></p>
+
+<p>Bacon Ingredients: Pork prepared with water, sea salt, maple sugar blend (can &amp; maple sugars), celery powder.  No Nitrites or Nitrates Added.  Celery powder may contain naturally occurring nitrates.</p>
+
+<h3>Ground Pork</h3>
+
+<p>Bundles of three items (about 3 lbs) priced at $25 from a selection of: Ground (plain), Special blend sausage (bulk, not links)</p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box8_PorkGround2b_w1000.jpg"/></p>
+]]></content>
+  </entry>
   
 </feed>
